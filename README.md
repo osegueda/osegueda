@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osegueda
-- 👀 I’m interested in full stack web development and android development
+- 👀 I’m interested in full stack web development and android developer sometimes
 - 🌱 I’m currently learning 
 
 <!---
